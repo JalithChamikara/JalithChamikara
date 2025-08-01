@@ -5,7 +5,7 @@
 
 - 📫 How to reach me <a href="mailto:premjalith@gmail.com" style="text-decoration: none; color: #007bff; transition: all 0.3s ease;"><strong>premjalith@gmail.com</strong></a>
 
-- 📄 Know about my experiences <a href="https://jalithchamikara.me/#Experience" target="_blank" style="text-decoration: none; color: #007bff; transition: all 0.3s ease;">My Experiences</a>
+- 📄 Know about my experiences <a href="https://jalithchamikara.me/#Experience" target="_blank" style="text-decoration: none; color: #007bff; transition: all 0.3s ease;"><strong>My Experiences</strong></a>
 <br><br>
 <h3 align="center">Connect with me</h3>
 <p align="center">
